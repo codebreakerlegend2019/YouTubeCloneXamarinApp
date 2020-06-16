@@ -1,0 +1,1074 @@
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\bin\Release\YouTubeClone.Android.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\bin\Release\YouTubeClone.Android.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\bin\Release\com.companyname.appname.apk
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\bin\Release\com.companyname.appname.aab
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\bin\Release\com.companyname.appname-Signed.aab
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\bin\Release\com.companyname.appname-Signed.apk
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\bin\Release\YouTubeClone.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\bin\Release\YouTubeClone.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\build.props
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\adb.props
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\YouTubeClone.Android.csprojAssemblyReference.cache
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res.flag
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\5049261C94DA470B.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\03D623BE63065C7F.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\5783F152210635A7.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\5049261C94DA470B.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\03D623BE63065C7F.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\5783F152210635A7.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\compiled.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\R.txt
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\R.cs.flag
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\YouTubeClone.Android.csproj.CoreCompileInputs.cache
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\XamlC.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\YouTubeClone.Android.csproj.CopyComplete
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\YouTubeClone.Android.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\YouTubeClone.Android.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\bin\com.companyname.appname.apk
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\bin\base.zip
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\bin\com.companyname.appname.aab
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\bin\com.companyname.appname.apks
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\layout\tabbar.xml
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\layout\toolbar.xml
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\values\styles.xml
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\drawable\channel_profile_pic.jpg
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\drawable\ic_yt.png
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\drawable\yt_vlog_1_thumbnail.jpg
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\drawable\yt_vlog_2_thumbnail.jpg
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\res\drawable\splash_screen.xml
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\uploadflags.txt
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\resolvedassemblies.hash
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\link.flag
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\DryIoc.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Essential.Interfaces.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FFImageLoading.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FFImageLoading.Forms.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FFImageLoading.Forms.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FFImageLoading.Forms.Platform.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FFImageLoading.Forms.Platform.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FFImageLoading.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FFImageLoading.Platform.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FFImageLoading.Platform.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FFImageLoading.Transformations.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FFImageLoading.Transformations.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FormsViewGroup.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\FormsViewGroup.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Java.Interop.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Mono.Android.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Mono.Android.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Mono.Security.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Mono.Security.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\mscorlib.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\mscorlib.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Newtonsoft.Json.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Polly.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Polly.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Prism.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Prism.DryIoc.Forms.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Prism.DryIoc.Forms.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Prism.Forms.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Prism.Forms.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Core.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Core.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Data.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Data.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Drawing.Common.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Drawing.Common.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Net.Http.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Net.Http.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Numerics.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Numerics.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Runtime.Serialization.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Xml.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Xml.Linq.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Xml.Linq.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\System.Xml.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Activity.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Activity.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Annotation.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Annotation.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.Resources.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AppCompat.Resources.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Browser.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Browser.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CardView.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CardView.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Collection.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Collection.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Core.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Core.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CustomView.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.DocumentFile.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Fragment.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Interpolator.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Interpolator.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Loader.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Loader.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Media.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Media.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Print.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Print.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SavedState.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Transition.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.Transition.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Essentials.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Essentials.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Google.Android.Material.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Xamarin.Google.Android.Material.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\YouTubeClone.Android.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\YouTubeClone.Android.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\YouTubeClone.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\YouTubeClone.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\typemaps.armeabi-v7a.s
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\typemaps.arm64-v8a.s
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\typemaps.armeabi-v7a-managed.inc
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\typemaps.arm64-v8a-managed.inc
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\typemaps.armeabi-v7a-shared.inc
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\typemaps.shared.inc
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\AndroidManifest.xml
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\__environment__.txt
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\machine.config
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\bin\mono.android.jar
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\static.flag
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\buildid.txt
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\environment.armeabi-v7a.s
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\environment.arm64-v8a.s
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\appcompat\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\appcompat\resources\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\browser\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\cardview\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\coordinatorlayout\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\core\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\media\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\recyclerview\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\androidx\transition\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\com\google\android\material\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64113e42ab7d52b0b8\MainActivity.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64113e42ab7d52b0b8\SplashScreenActivity.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc6414fa209700c2b9f3\CachedImageFastRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc6414fa209700c2b9f3\CachedImageRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc6414fa209700c2b9f3\CachedImageView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc644bcdcf6d99873ace\FFAnimatedDrawable.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc644bcdcf6d99873ace\FFBitmapDrawable.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc644bcdcf6d99873ace\SelfDisposingBitmapDrawable.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64b75d9ddab39d6c30\LRUCache.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\ffimageloading\cross\MvxCachedImageView.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\ffimageloading\views\ImageViewAsync.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\bin\packaged_resources
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\src\com\companyname\appname\R.java
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\typemaps.armeabi-v7a.o
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\typemaps.arm64-v8a.o
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\environment.armeabi-v7a.o
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\environment.arm64-v8a.o
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\bin\classes.dex
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\stamp\_CleanIntermediateIfNeeded.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\stamp\_CompileToDalvik.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\stamp\_ConvertCustomView.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\stamp\_ConvertResourcesCases.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\stamp\_GenerateJavaStubs.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\A3B032FB789B1119.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\6F7C83A0469B3651.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\17556929E1B91FE6.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\AF1D90DDF0DEF81F.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\63D12186CEDEDF57.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\0BE9762A3EFC8200.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\C725C77100FCA548.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\140D49D581DA5A33.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\47924C7776064147.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\A3B032FB789B1119.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\6F7C83A0469B3651.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\17556929E1B91FE6.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\AF1D90DDF0DEF81F.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\63D12186CEDEDF57.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\0BE9762A3EFC8200.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\C725C77100FCA548.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\140D49D581DA5A33.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\flata\47924C7776064147.flata
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone.Android\obj\Release\100\android\assets\Prism.dll.mdb
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\0629d834ca2308f52e943762a1bf9af5\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\06910e994ebc4642ce1d45330159ba35\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\0bce274afa0b46a0732fb08ee4c8054a\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\0e87e306337eb5d4e05d1e6fe026d2b2\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\14c2f3359b68f9c74325968179f9177c\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\1645fb9bc0289a72c3aa329010857464\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\1ab42958bc3ae2c0bcca4f761fadf5a4\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\1c60c4ee93aa6c2c9a7f3ca8b2245af3\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\1f10f4d806a422e60fdda63cf812917a\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2300a04156d0665a4023ef15002614d9\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\240a59c842031810e46dcfba1b44a435\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2497ba92c8510aa1779f4370fb4f8c8b\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\25fe41674e4b6a43e36341165688bc83\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2a5339f6d293def07927cb0915b61811\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2d6ff057e357090f2e988c8f2446cc04\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2ddf04ee012224ae5c0debdd33138a2b\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2e7c0f09db9aab494c7dd369d8154316\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2ed956ac5875b92503ac8898a9d14ac7\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2f82dba6f658064400189c98e52e021c\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\30d24a13b90f145c025b6a461844ffbb\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\30fe713f43f318b1fc82d254ef934303\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\321d05caf263ee411e2425135cb2a97a\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\32385ac30e9460c0e694fc83248307c9\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\348a32aaf2b3263b9945eb6cebb8e037\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\3814a4b8b0343193229e4e1d43b6b6e4\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\3867031fc0724303b12a0f15253fa7ac\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\387acee94247a7afb3a961dfe91cc1e5\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\38826fa4d3b05689ed864450ae8613ac\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\3c2e9c84e6b874b63e40a1e8044c239d\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\3dc9c3cd42d6fcdfc6b5219a09c2b236\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\3dd41798d70180266c3136a5a1c333f3\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\41d9faa8eb724f5e0ad41958ba8fd5e1\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\42eb25917042fb9180554e98139aff61\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4449fecfce5a95cbaa738d63b1ac7a3b\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\45afdd8b1ae6163941721f766f2a1e64\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\46f90829e20efda645cdf628f4a07889\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\46fe324e8ddb17996d0d318d2adc21e8\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\49ea017643a6294b82d5861885077f55\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4a38c85bd6e323453a0622fce2ba56c2\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4a4c43ea6d700f2bc9f0c12238a982e6\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4b4fcc7e0bc6d179426329b31b9ccfac\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4e2b4bf74d2d50bd141b637aa90469bb\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4e6b097bd35e792fde4491788eccde57\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4eb7b5bb8b8b85299f414f8604a6c177\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4fded2fcd507841b5c3be35867ef4013\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\528799f97cfb0c033d099edf6d932b01\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\540195dabaaed260b89779a9088bc2eb\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\55434fe8fc9f2c761665e679a270ca69\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\575616efccbcf44b5739cc4831c23de0\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\582c3a92b859d71b7f3b7f7de35b07c5\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\5bc5c8a598f9a76cd83d5c25fe74bc90\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\5c712751b6c9b9f610c90b9e1f1bae57\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\5f4de2780e4e7e065aeb5a054a51303f\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\5f62d24fd456877362d06e67262fdc5e\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\5f87cdd48997f3a1b733504cf9531e40\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\609edde76bd445b5f43bb6fa13f07505\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6224f5c47221fd9383bcbf9ec13c64f8\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\624d008bcd913fca3f0f671363b0a3d2\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\633ad7277f20ef59520672d3d7773d7d\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\64130989825cf5c08549ce11cecc71dd\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\65712a6671775942fc417fa64b88d74c\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6717cb6c88c947a2745870123b83926b\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\671d321c82b5e831d1b312bb14a43d67\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\67f3cba3874afab05cc79694779d48db\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6d94f10e3f6b9fc7d31f3d189301ddc2\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6eafd877848aeae34ab16b1e4e874dab\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6ef22095a6368fa8bcd6d91082825135\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6f336bf944e1455b53f57c8235797ad5\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\70961ff50de3079a19154977eb3e801c\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\72bb2ecf5c56fcef8d72482f3d9e967e\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\74e4caf721bf98a3da174499c61eb8be\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\74e5ce3b6cce0698f5c7c87fe1dc67c8\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\7722e18e9002f868a4347d11f2068298\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\772a7445c59ab012713cdc9ba5cb07ee\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\77cd1ebabd6b331b6503718ca7d7a023\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\7ee3e7d26679401f11582436691c37e4\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\81e090d53652b6684fb80acfaf12b0f9\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\86716465b41e392c20fb817742d16bde\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\87d5d855cc068ad42e9cfc19f97d59a7\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\87ee2e418eb9fde205a8c1329450f6da\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\898864d0a658ad8dd5a055624c03ebcb\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\8d1c5d12e080262a2545ff4e572c1cdc\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\8eac9697e270494d7cedf45ea8aea2f7\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\8f2b43cc48e47729c789129713225266\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\9096ba323faaaa87c44e70e1ea03f4f5\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\919a7221487103c3107849c12c75de78\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\9257686b4f34405e934bd92b9688c945\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\938ce6f905f2a92fd800472fd90da42f\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\93efb1f25c0c4c065c52d10512d18a0a\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\9560da5a2c601cbddfe8b1b3aa223ec5\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\96e8285bb4bdae012946dccfb650ea86\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\9753debd3f914bbba59b32b8093def6e\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\97acb53c6b10f8beceb67efdf8d9451c\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\990caa46608ccdc21d9cf0176c715096\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\9f3058244c40ad71b276792bf6af5562\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a235d33be0d671ccd70db1c5d4c0e24f\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a29654572d41757755ae6c06fcf557d1\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a3201ccdb58401d4bd1c20547eb651c7\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\aae67f7eb3d2181f1663c98588b366c9\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\ace1f6c5315e721c511d37e1dbec8d26\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\af521047c0e361618d4051c91818929c\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b1e86f008a352c66042417617692e05e\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b24c6de8c4257ebdcb449b70179bc8d1\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b341fd1ed389b57fdf49161b34ee2c0f\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b434eee86e3fbd21be2b6a329e59df72\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b5a5710cd3a08bd947f2cb50c46aaf8b\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b78c5f8c6d990b532e079bf1ab4f20b3\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b8716faab74ceaa6ea03c77c8693299c\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b8a66bdff78aa59916ea969b7cc84193\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b94e0ec6317102147f4601ff226f3f91\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b95c28b468902214d6b75c113ce73e3f\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\bd121bb803cb9eb1e540c7c7f867aa0d\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\bdbdb076d70a0592ee887fb854a3af66\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\bead893080d49e66531bba345bcb4d5d\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c05294b7046e1eff911159d81683f87a\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c47444663408a2a00c941831b3c4dfcf\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c8789c4fe696ee11b0c0365e723302fd\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c87ed98998ddff9df369d7fe81fc8532\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c91d64e422c972b6495073ee7955a16f\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c99c335d64d269e35ad9151c91d76428\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\cab20e5398759057008f355cb3c58f67\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\ce51b4b0902870985872e7d99fc514ca\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\cf696c98629089cc0659d45cb5ca8a23\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d032432d768b1024dc8ba15829905a2b\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d042225f1647a854dd076ee39c77b8c6\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d2f9de36bfd731ff4bb3ae90cdf41cef\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d404e5839c932327680ee2a103d76b08\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d5962e55bf5bff0a8a4320e6aa417718\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d6ee6714f217eda6ce7288da369a9792\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d827551bb82a84dcdb57c54cd8aa90c0\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d8cfaaaa2cad918755d183cb78b9edef\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\dcd8655141832957690f762d0f5cc49a\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\dd503447ed94a7f9c1719473bc48ede9\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\de74c0061f64381143b87dc1de99e450\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\e1735c91193a7121a705394ee069240d\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\e226773387d1e66bb7ec8177f23362b9\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\e232f1995d5aabe1de104afbb48fc662\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\e9e5dcf1edb1929619cb9c1cfa5b5f07\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\ea502c4e1a7c4d25be93fe648c57e55e\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\ed20c6576666af2b03ae60245cb285c2\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\efa271d3e19fcd7bb0d125b05354ec5d\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\f1d3b098b7c57ffd593b3c928062ddb8\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\f49c57a4a8fc2189be28058e194973e6\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\f6729364a78a44b7a40ec94d7db7c42a\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\f8903fe5b2db7d7210ed99d0a0b87728\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\f8ce9603c2f11e1fcf8f055c82474fc6\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\fa5b49d831ddf937a813d9db56733861\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\fc2b2042c40205b7523b4a15c79aed9e\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\fd05cbeff3a532241c595a2c9c694350\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\fdbd80cce1a1f050f48b696b6d896702\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\00ef69d137acc88c508914378bcad804\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\02371f6ad52b3817772e455ff867e488\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\027c8105475e4a695f64357ca53078b0\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\051c39fc0174ca723d2322bc4cb2d5b9\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\06260e2572a123c3c98703c33cf45a41\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\0805b0ebac83047c41147befa82fb2eb\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\081c354a6919df5873bd1b7398870881\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\0899547a14fa175738547cb02a2ac8c6\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\0c090b833696bc4166dc3bdfde88228c\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\0d40cd6e76ca2903536841152c3ac8c1\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\0dcb89f4b5da195b455be64e5b2da9de\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\125947828b64da643ef7b38e47a871b6\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\14df842202e30253172acbe975a312eb\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\15f104fe7160a31edd7bd996b2919969\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\169ae2d0c200d667217b3881bcd8180b\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\16d0ccd23c929ec08fe47e12ddbcadff\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\1905830b00ba16ec9adc0efcd7779a68\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\19e3d9e641fcf1108cdea0e87884bde1\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\1c4ed88e123f83a39d5fef2215f49c8b\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\202ed98f02d9501cdfb9d43fe98153f7\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\211ad45a1a1084b0b3276006c8ef54ca\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\21979bad172139448e0f840e58b2a1a3\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\23b9d0ecd29782096503e0a515cadf70\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\278a93bbd448f9fc07ab2f858aaa7437\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\295044798fd1ec8371b78448593fde47\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\29ffc804a9b226287f8bdf682def914a\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2a2884d470152b1b33c4d8204789e049\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2ec310c099de80c81cf518ace39b967c\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\2f2fec9d3a6ed6864f44ba3ad58efaf3\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\3073b6503370c4ef7abdbd1e9a32ff24\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\30dbae4b97203441520bba89ab6ccd23\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\3392bd0f765211e4e43c68bf914c4bd2\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\351117ea0cf6b460312d8c301bbc61dc\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\360669768b03f0a62a2e33d4807c1d92\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\38712b46d22cc40af60c014dd02ea5cb\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\3a096d81d442827233f48fff140037eb\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\3a5b138668aaeef712252b610e45ba44\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\3c6d6e2f3f2dec5c01940a3e1970dfb4\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\40bacb13795a4542e611b71f42072f7f\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\41173ada55d6911e46e07a5ed90c9925\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\431b8f18928ef45ceaed9bbf4cd4f297\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\43902c3c191ec0fe1b1947bb34727a50\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\43ca207542bec56e10bf13e552e60e1a\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\44efc0fcede063d4dec7f2c454232043\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\461daee867bc012fc81d9325faa5ac3a\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\492504a465934302af6695fb5057480f\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\49b26f143aa0b9b5b5c5022d812473a6\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4a5f5d421ba3c6a41eb22a53098c7e7d\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4de0e215e9e6f971b03ef18183cb0bf9\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\4f4604cd03a82280f55a220625004ce9\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\51c762701c385b57c77a2e468753793d\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\55b226dcaa883b05457900abb392c1fe\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\56ef3dffe3a0345d550ea998149b4272\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\5839dc8547a301f57f0d31460bd896ee\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\5898d3824fcc3d80c10df6236fe74464\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\59234918ae8c2ab661aac2c665794a1a\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\5d94c0aaf0d97eee3abe130189866ce8\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\5db387e05cce2735af4f044d5ae75891\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\5e4b508cfe44dce3c1f3ff94e99eed0d\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\615dfc483a59190656b737fbeb65b4df\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\61778408ebeeac90f046755149152ad7\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\61b7434f2dfd223fd44ad24ebdc7c12d\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\62eabf79735cf07b8a8e7f848fd31620\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\63e33978d30b6482add0ade6b37d392c\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\63f56163731282f68995cee8c8d7188e\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\648a11dac28de723a61898468252dea2\YouTubeClone.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\65761b53d7b2f7e3a470ee45b9c711e2\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\68d49c90429c2764ff80b3e8ea822a55\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\69401c01a99933a7564de5a81891e0f9\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6acbb180f357dd3d42e5a1e25866d7b1\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6c34d0b9674d9bed80a4f44b4512960e\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6c4b96b5582e29b533d7f4a7382df2aa\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6d25c568c7a9f13ac30375ceca4c94c8\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\6da59d76ad59f0f5c39fd4d5d4777985\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\70bece1caa775dee2db3f85baf4dbf3f\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\7169e59860f50a49804c42799f273567\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\74451ad90c404cf7add06d3c773cd352\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\750fe276feffdf477bdae31fccf4bdc5\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\76ab2233f61d0592bf033cdc22a57637\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\779750bcce11dc3e4d0faf587c1b4e82\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\78d93f07a8012686122d78676240e97e\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\79bac9d092b98859e8ed2d06c969f899\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\7bafd8b22c709569680a1b9d3e2195df\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\7bedf1e4127fe1c905ac382393a0c81b\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\7e5f59ee6ce18f5f0e67a487a935d977\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\841be847097587ea2615d67f1b56d336\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\861d03221ffe1b82382f03170e2000cb\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\8744ba982ba543cf6e5910d10b464380\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\87d6429c640699076e01553a1028c245\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\88fdccabe7bdc149a825e57cd9765576\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\985439236db5849d85829ca212f9dd90\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\99881fd6d170aa9832b1dc742e956433\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\9b7324df55b68252e4b4e66803a44f7d\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\9ddddd6dcb02077127bb1980aa1de826\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\9ec593edcb698bf72b5e35b332a47f4c\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\9f8b4f11cce03ce34f7877b15ca9d7f2\FFImageLoading.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a03cc3e499f4efe8163211ccbb6cbfcc\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a09c824017b3094652d9a778f8a373f0\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a13f4fa29b4d983fcf6e057d09e1c235\Xamarin.Essentials.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a18dfe16cc66456ba7f79b033ba7fb13\System.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a40829686cad6f81b1ddc3125cd6f742\System.Xml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a53c9d5fae00758f2ce49c9976cd9635\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a7c7a51acf4355c0917d93aa7c98fb85\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\a965161390b729cd9480a7f057d19243\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\ae2650e83b84167252f6870e97537376\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\af4add61575c92896a0d93b26fb352a5\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\af5c5833ae7907235180bffbe5938711\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b5c0b71a66717b574284942d4dc12dba\Prism.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b6ce98b102bfe6738d3b75a2ce6dcc0e\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b7d443f69c7d722678527f84b7cd2271\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b7fd0b0e1ae723816b1f2b716fd43e3c\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b8bcd73666020c2a4df5cd1138c413f5\FFImageLoading.Forms.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\b9e588240c2ef15ab4fed6e1ab4d323f\Mono.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\be740b69f4dc915e2cd1003a6a9c472a\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\bf0986acdf6430abbd0c2902eeb5272a\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c1969ef20142b5db05914752408fa167\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c2782a279d74e08a02bd97a055fb96d6\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c2da706d15ffc49e753aa69ab56767a5\FormsViewGroup.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c6b3d7e0e1c86148cf4620fda8610462\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c7e5fba3f0ed67f372de5fcdb6fb8d87\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c7f2d4f24dd597d775faf66a92a7d294\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\c8e6a4c768ce7315fe82135f084d7acd\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\cb2659490de98c4dee8ee60fa7d3c6a7\mscorlib.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\cf18b82d4c1d7ba745e8544db0e0865d\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\cfdef5852d753d50a08d3dc5393adbdd\System.Data.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d2feaaac0799b434eed3ac0af3c15bd1\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d35fc2ae33dc15d2520111d38d159a33\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d4a01714666dbe5c0b4f3b8a82bf157c\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d80e59a8a2b79372010b6e4ec9012611\DryIoc.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d877edff6fc5398f6900f5b1566670cd\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d9971ae3fb639bb2452b722257d70fe4\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\d9b7d37a9cc8ea0028b5ef3059bc0a01\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\dc6d89bc86a2e8df942771c377089416\Xamarin.Forms.Core.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\dfc8aa906d24411e9b04d2867ed233af\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\dfcf85271a62974cfa266459f4f3a3ef\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\e011804f05d2df1fd5396f1e29d5a0df\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\e09749b71c119dd88016a391c5d90304\System.ServiceModel.Internals.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\e3e0b393479107bd2f42cdf447c6fd4d\Xamarin.Forms.Platform.Android.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\e4872d803f2e145c8ffed85bc3598cbb\Prism.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\e56c88a463e4b91a0ae88d3e167ca5fb\Newtonsoft.Json.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\ebf150d71f5b21bae81318aaf2af9193\Polly.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\ec5c250134244443af7d29ece006d866\System.Net.Http.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\ef4865735f97d48fc16e24179b6b4093\Java.Interop.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\f07a6602b7becf3a4e52ff63dff0f3da\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\f4ea4665838c5708a456df89066a1e58\Xamarin.Forms.Xaml.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\f616f7328544807eb1dfdddecc73327f\System.Runtime.Serialization.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\f9d0b57316401be5e5f36f7f9efdf895\System.Xml.Linq.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\fba0b70133f5f787bc9c70337d5c8da0\FFImageLoading.Platform.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\fc5d5fbdf5726fcc276b34bdd8636d21\System.dll.msym
+bin\Release\com.companyname.appname.apk.mSYM\fd1252a59a14c6c38d69fa060dc07f1d\System.Core.dll.msym

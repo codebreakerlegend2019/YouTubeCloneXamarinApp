@@ -1,0 +1,17 @@
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\bin\Release\netstandard2.0\YouTubeClone.deps.json
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\bin\Release\netstandard2.0\YouTubeClone.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\bin\Release\netstandard2.0\YouTubeClone.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\CustomPages\VideoView.xaml.g.cs
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\Themes\DarkTheme.xaml.g.cs
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\Themes\LightTheme.xaml.g.cs
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\Views\LandingPage.xaml.g.cs
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\Views\ViewA.xaml.g.cs
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\YouTubeClone.AssemblyInfoInputs.cache
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\YouTubeClone.AssemblyInfo.cs
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\YouTubeClone.csproj.CoreCompileInputs.cache
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\YouTubeClone.dll
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\YouTubeClone.pdb
+C:\Users\Joshua D. Siuagan\source\repos\YouTubeClone\YouTubeClone\obj\Release\netstandard2.0\YouTubeClone.csprojAssemblyReference.cache

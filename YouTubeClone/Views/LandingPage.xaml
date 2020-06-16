@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage
+    x:Class="YouTubeClone.Views.LandingPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
+    xmlns:material="clr-namespace:YouTubeClone.Helpers"
+    xmlns:prism="http://prismlibrary.com"
+    xmlns:views="clr-namespace:YouTubeClone.Views"
+    android:TabbedPage.ToolbarPlacement="Bottom"
+    prism:ViewModelLocator.AutowireViewModel="True"
+    BarBackgroundColor="{DynamicResource PageBackgroundColor}"
+    BarTextColor="{DynamicResource TitleTextColor}"
+    SelectedTabColor="{DynamicResource TabbedSelectedColor}"
+    UnselectedTabColor="{DynamicResource TabbedUnSelectedColor}">
+    <TabbedPage.Children>
+        <views:HomePage />
+        <ContentPage Title="Trending">
+            <ContentPage.IconImageSource>
+                <FontImageSource
+                    FontFamily="{DynamicResource MaterialFontFamily}"
+                    Glyph="{x:Static material:MaterialFonts.Fire}"
+                    Size="44"
+                    Color="{DynamicResource TitleTextColor}" />
+            </ContentPage.IconImageSource>
+            <StackLayout BackgroundColor="{DynamicResource PageBackgroundColor}">
+                <Label
+                    HorizontalOptions="CenterAndExpand"
+                    Text="Trending Page Works"
+                    TextColor="{DynamicResource TitleTextColor}"
+                    VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+        </ContentPage>
+        <ContentPage Title="Subscription">
+            <ContentPage.IconImageSource>
+                <FontImageSource
+                    FontFamily="{DynamicResource MaterialFontFamily}"
+                    Glyph="{x:Static material:MaterialFonts.YoutubeSubscription}"
+                    Size="44"
+                    Color="{DynamicResource TitleTextColor}" />
+            </ContentPage.IconImageSource>
+            <StackLayout BackgroundColor="{DynamicResource PageBackgroundColor}">
+                <Label
+                    HorizontalOptions="CenterAndExpand"
+                    Text="Youtube Subcripstion Page Works"
+                    TextColor="{DynamicResource TitleTextColor}"
+                    VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+        </ContentPage>
+        <ContentPage Title="Inbox">
+            <ContentPage.IconImageSource>
+                <FontImageSource
+                    FontFamily="{DynamicResource MaterialFontFamily}"
+                    Glyph="{x:Static material:MaterialFonts.Email}"
+                    Size="44"
+                    Color="{DynamicResource TitleTextColor}" />
+            </ContentPage.IconImageSource>
+            <StackLayout BackgroundColor="{DynamicResource PageBackgroundColor}">
+                <Label
+                    HorizontalOptions="CenterAndExpand"
+                    Text="Inbox Page Works"
+                    TextColor="{DynamicResource TitleTextColor}"
+                    VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+        </ContentPage>
+        <ContentPage Title="Library">
+            <ContentPage.IconImageSource>
+                <FontImageSource
+                    FontFamily="{DynamicResource MaterialFontFamily}"
+                    Glyph="{x:Static material:MaterialFonts.Folder}"
+                    Size="44"
+                    Color="{DynamicResource TitleTextColor}" />
+            </ContentPage.IconImageSource>
+            <StackLayout BackgroundColor="{DynamicResource PageBackgroundColor}">
+                <Label
+                    HorizontalOptions="CenterAndExpand"
+                    Text="Library Page Works"
+                    TextColor="{DynamicResource TitleTextColor}"
+                    VerticalOptions="CenterAndExpand" />
+            </StackLayout>
+        </ContentPage>
+    </TabbedPage.Children>
+</TabbedPage>

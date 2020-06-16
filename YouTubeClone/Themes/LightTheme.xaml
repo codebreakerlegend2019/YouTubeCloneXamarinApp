@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ResourceDictionary
+    x:Class="YouTubeClone.Themes.LightTheme"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <Color x:Key="PageBackgroundColor">#FFFEFF</Color>
+    <Color x:Key="NavigationBarColor">#FFFEFF</Color>
+    <Color x:Key="TitleTextColor">#292829</Color>
+    <Color x:Key="TabbedSelectedColor">#FF0000</Color>
+    <Color x:Key="TabbedUnSelectedColor">#939293</Color>
+
+</ResourceDictionary>
+
+

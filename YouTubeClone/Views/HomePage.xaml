@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="YouTubeClone.Views.HomePage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:homerelatedpage="clr-namespace:YouTubeClone.CustomPages"
+    xmlns:material="clr-namespace:YouTubeClone.Helpers"
+    xmlns:prism="http://prismlibrary.com"
+    Title="{Binding Title}"
+    prism:ViewModelLocator.AutowireViewModel="True"
+    BackgroundColor="{DynamicResource PageBackgroundColor}"
+    NavigationPage.HasBackButton="False">
+    <ContentPage.IconImageSource>
+        <FontImageSource
+            FontFamily="{DynamicResource MaterialFontFamily}"
+            Glyph="{x:Static material:MaterialFonts.Home}"
+            Size="44"
+            Color="{DynamicResource TitleTextColor}" />
+    </ContentPage.IconImageSource>
+    <AbsoluteLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+
+        <CollectionView
+            x:Name="SearchCollectionView"
+            AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="All"
+            ItemSizingStrategy="MeasureAllItems"
+            ItemsSource="{Binding Videos}"
+            Scrolled="PackagesScrolled"
+            SelectionMode="Single">
+            <CollectionView.Header>
+                <ContentView>
+                    <StackLayout
+                        x:Name="SearchCollectionHeaderView"
+                        Margin="0,55,0,25"
+                        BackgroundColor="{DynamicResource PageBackgroundColor}">
+                        <StackLayout Orientation="Horizontal">
+                            <Label
+                                FontSize="Title"
+                                HorizontalOptions="StartAndExpand"
+                                Text="Turn on Darkmode"
+                                TextColor="{DynamicResource TitleTextColor}" />
+                            <Switch
+                                HorizontalOptions="EndAndExpand"
+                                IsToggled="{Binding IsDarkModeOn}"
+                                Toggled="Switch_Toggled" />
+                        </StackLayout>
+                    </StackLayout>
+                </ContentView>
+            </CollectionView.Header>
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout
+                    Orientation="Vertical"
+                    Span="1"
+                    VerticalItemSpacing="2" />
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <homerelatedpage:VideoView
+                        ChannelName="{Binding ChannelName}"
+                        ChannelProfilePicture="{Binding ChannelProfileImage}"
+                        MomentPublishedDate="{Binding MomentPublishedDate}"
+                        ThumbNailImage="{Binding ThumbNail}"
+                        VideoDuration="{Binding Duration}"
+                        VideoTitle="{Binding Title}"
+                        ViewCount="{Binding ViewInText}" />
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Frame
+            x:Name="SearchBarView"
+            Margin="0,0,0,0"
+            Padding="3"
+            AbsoluteLayout.LayoutBounds="0,0,1,55"
+            AbsoluteLayout.LayoutFlags="XProportional,WidthProportional"
+            BackgroundColor="{DynamicResource NavigationBarColor}"
+            HasShadow="True"
+            HorizontalOptions="FillAndExpand">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="2*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Image
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    HeightRequest="50"
+                    Source="ic_yt.png"
+                    WidthRequest="50" />
+                <Label
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    CharacterSpacing="-1.5"
+                    FontAttributes="Bold"
+                    FontFamily="{StaticResource RobotoCondensed}"
+                    FontSize="Title"
+                    HorizontalTextAlignment="Start"
+                    LineBreakMode="NoWrap"
+                    Text="YouTube"
+                    TextColor="{DynamicResource TitleTextColor}"
+                    VerticalTextAlignment="Center" />
+                <Button
+                    Grid.Row="0"
+                    Grid.Column="2"
+                    Margin="0"
+                    BackgroundColor="Transparent"
+                    FontFamily="{StaticResource MaterialFontFamily}"
+                    FontSize="Title"
+                    Text="{x:Static material:MaterialFonts.Cast}"
+                    TextColor="{DynamicResource TitleTextColor}" />
+                <Button
+                    Grid.Row="0"
+                    Grid.Column="3"
+                    Margin="0"
+                    BackgroundColor="Transparent"
+                    FontFamily="{StaticResource MaterialFontFamily}"
+                    FontSize="Title"
+                    Text="{x:Static material:MaterialFonts.Video}"
+                    TextColor="{DynamicResource TitleTextColor}" />
+
+                <Button
+                    Grid.Row="0"
+                    Grid.Column="4"
+                    Margin="0"
+                    BackgroundColor="Transparent"
+                    FontFamily="{StaticResource MaterialFontFamily}"
+                    FontSize="Title"
+                    Text="{x:Static material:MaterialFonts.Magnify}"
+                    TextColor="{DynamicResource TitleTextColor}" />
+
+                <Button
+                    Grid.Row="0"
+                    Grid.Column="5"
+                    Margin="0"
+                    BackgroundColor="Transparent"
+                    FontFamily="{StaticResource MaterialFontFamily}"
+                    FontSize="Title"
+                    Text="{x:Static material:MaterialFonts.AccountCircle}"
+                    TextColor="{DynamicResource TitleTextColor}" />
+            </Grid>
+        </Frame>
+    </AbsoluteLayout>
+
+</ContentPage>

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentView
+    x:Class="YouTubeClone.CustomPages.VideoView"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:ffTransformations="clr-namespace:FFImageLoading.Transformations;assembly=FFImageLoading.Transformations"
+    xmlns:forms="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <StackLayout>
+        <StackLayout>
+            <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                <Grid HorizontalOptions="Center" VerticalOptions="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Image
+                        x:Name="ThumbnailArea"
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        Aspect="AspectFill"
+                        HorizontalOptions="Center" />
+
+                    <StackLayout
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        Margin="10"
+                        Padding="5"
+                        BackgroundColor="Black"
+                        HorizontalOptions="End"
+                        VerticalOptions="End">
+                        <Label x:Name="VideoDurationArea" TextColor="White" />
+                    </StackLayout>
+                </Grid>
+            </StackLayout>
+            <StackLayout
+                Grid.Row="1"
+                Grid.Column="0"
+                Margin="0"
+                HorizontalOptions="FillAndExpand"
+                VerticalOptions="FillAndExpand">
+                <StackLayout
+                    Margin="5,5,5,5"
+                    Orientation="Horizontal"
+                    VerticalOptions="Center">
+                    <StackLayout
+                        Margin="0,0,5,0"
+                        HorizontalOptions="Start"
+                        VerticalOptions="Center">
+                        <forms:CachedImage
+                            x:Name="ChannelProfilePictureArea"
+                            Aspect="AspectFit"
+                            BitmapOptimizations="False"
+                            DownsampleToViewSize="True"
+                            HeightRequest="50"
+                            HorizontalOptions="Center"
+                            RetryCount="3"
+                            RetryDelay="5"
+                            VerticalOptions="Center"
+                            WidthRequest="50">
+
+                            <forms:CachedImage.Transformations>
+                                <ffTransformations:RoundedTransformation Radius="240" />
+                            </forms:CachedImage.Transformations>
+                        </forms:CachedImage>
+                    </StackLayout>
+                    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                        <Label
+                            x:Name="VideoTitleArea"
+                            Padding="2,2,2,2"
+                            FontSize="Large"
+                            LineBreakMode="TailTruncation"
+                            TextColor="{DynamicResource TitleTextColor}" />
+                        <Label FontSize="Caption" TextColor="#434343">
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span x:Name="ChannelNameArea" />
+                                    <Span Text=" • " />
+                                    <Span x:Name="ViewCountArea" />
+                                    <Span Text=" • " />
+                                    <Span x:Name="MomentPublishedDateArea" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+
+        </StackLayout>
+    </StackLayout>
+</ContentView>
